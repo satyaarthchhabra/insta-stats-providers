@@ -1,0 +1,24 @@
+{
+  "name": "instagramfollowers",
+  "version": "1.0.0",
+  "description": "go to the  folder and rum command npm -init\r hey it is a javascript  based scrapper in which u can give the name of the user and   u will be rewarded  with  the insta followers and insta following",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyaarthchhabra/insta-stats-providers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyaarthchhabra/insta-stats-providers/issues"
+  },
+  "homepage": "https://github.com/satyaarthchhabra/insta-stats-providers#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "require": "^2.4.20",
+    "require-promise": "^1.0.1"
+  }
+}
